@@ -1,0 +1,16 @@
+# My own custom list of video sites.
+0.0.0.0 9anime.pe
+0.0.0.0 9anime.bid
+0.0.0.0 animelab.com
+0.0.0.0 anime-planet.com
+0.0.0.0 anix.to
+0.0.0.0 crunchyroll.com
+0.0.0.0 funimation.com
+0.0.0.0 gogoanime.movie
+0.0.0.0 gogoanime.tw
+0.0.0.0 hidive.com
+0.0.0.0 kissanime2.ws
+0.0.0.0 kitsu.io
+0.0.0.0 watchcartoononline.io
+0.0.0.0 yidio.com
+0.0.0.0 zoro.se
